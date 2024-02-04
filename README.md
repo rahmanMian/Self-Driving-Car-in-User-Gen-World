@@ -1,6 +1,6 @@
          
              
-SELF DRIVING CAR is the first part of the Autonomous Car Project. Built purely with HTML,CSS, and JavaScript. No Libraries!
+1.SELF DRIVING CAR is the first part of the Autonomous Car Project. Built purely with HTML,CSS, and JavaScript. No Libraries!
               
 https://github.com/rahmanMian/SELF_DRIVING_CAR/assets/89672689/6955db75-c620-4335-88fc-b4b6c2da16d8
 
@@ -10,7 +10,7 @@ The project began with arrow-key-controlled car movement on a straight road. A r
 
 
 
-World is the first part of the Autonomous Car Project. Built purely with HTML,CSS, and JavaScript. No Libraries!
+2.World is the first part of the Autonomous Car Project. Built purely with HTML,CSS, and JavaScript. No Libraries!
        
 https://github.com/rahmanMian/World/assets/89672689/0ef4ad0a-3bd0-4b76-b079-abd37bbb6eab
 
