@@ -26,8 +26,8 @@ The user has an option to save the world to local storage for later. This is don
 
 3. Car-In-World is the final part of the Autonomous Car Project. Built purely with HTML,CSS, and JavaScript.No Libraries!
 
-The user now has the option to devleop maps and test out the car's machine learning algorithm. The user can now also parse real world data from Open
-Street Map. In the demo below I emulated my neighbourhoods streets for the car.
+Now, users can actively develop maps and assess their car's machine learning algorithm. By utilizing a script in Overpass Turbo, real-world data from OpenStreetMap can be easily extracted. 
+In a recent demo, I replicated my neighborhood streets for the car's testing purposes. Explore these practical features for hands-on map development and algorithm evaluation.
 
 
 
