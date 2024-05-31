@@ -10,7 +10,7 @@ The project began with arrow-key-controlled car movement on a straight road. A r
 
 
 
-2. WORLD is the first part of the Autonomous Car Project. Built purely with HTML,CSS, and JavaScript. No Libraries!
+2. WORLD is the second part of the Autonomous Car Project. Built purely with HTML,CSS, and JavaScript. No Libraries!
        
 https://github.com/rahmanMian/World/assets/89672689/0ef4ad0a-3bd0-4b76-b079-abd37bbb6eab
 
